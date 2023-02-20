@@ -1,4 +1,4 @@
-"shell.h"
+#include "shell.h"
 
 /**
  * strcat_cd - function that concatenates the message for cd error

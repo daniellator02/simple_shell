@@ -1,4 +1,4 @@
-"shell.h"
+#include "shell.h"
 
 /**
  * get_builtin - builtin that pais the command in the arg

@@ -1,4 +1,4 @@
-"shell.h"
+#include "shell.h"
 
 /**
  * get_help - function that retrieves help messages according builtin

@@ -1,4 +1,4 @@
-"shell.h"
+#include "shell.h"
 
 /**
  * check_env - checks if the typed variable is an env variable
